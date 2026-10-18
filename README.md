@@ -1,12 +1,12 @@
-![Folder Sync](docs/cover.png)
+![Project Sync](docs/cover.png)
 
-# Folder Sync — Adobe Premiere Pro plugin
+# Project Sync for Adobe Premiere Pro
 
 **ফোল্ডারে নতুন ফাইল এলেই Premiere Pro-র ঠিক বিনে ইমপোর্ট — একটা ক্লিকে, অথবা নিজে থেকেই। দুই দিকেই সিঙ্ক, আর ডিস্কের কোনো ফাইল কখনো মোছে না।**
 
 ## ⬇️ ডাউনলোড / Download
 
-### [Folder-Sync.zip — সর্বশেষ ভার্সন (latest version)](https://github.com/ocpabdurrahim/folder-sync/releases/latest/download/Folder-Sync.zip)
+### [Project-Sync.zip — সর্বশেষ ভার্সন (latest version)](https://github.com/ocpabdurrahim/project-sync/releases/latest/download/Project-Sync.zip)
 
 ৭ দিন ফ্রি ট্রায়াল • 7-day free trial
 লাইসেন্স কিনতে / To buy a license: **WhatsApp 01912-007750 (+880 1912-007750)** ([chat](https://wa.me/8801912007750))
@@ -18,7 +18,7 @@
 
 ## বাংলা
 
-আপনি Premiere-এ একটা ফোল্ডার (Footage, Music, Graphics …) ইমপোর্ট করেছেন, পরে সেই ফোল্ডারে আরও ফাইল এসেছে: ক্যামেরার নতুন ক্লিপ, নতুন গান, নতুন "Day 2" ফোল্ডার। Premiere সেটা টের পায় না — Folder Sync পায়।
+আপনি Premiere-এ একটা ফোল্ডার (Footage, Music, Graphics …) ইমপোর্ট করেছেন, পরে সেই ফোল্ডারে আরও ফাইল এসেছে: ক্যামেরার নতুন ক্লিপ, নতুন গান, নতুন "Day 2" ফোল্ডার। Premiere সেটা টের পায় না — Project Sync পায়।
 
 **যা করে**
 - ইমপোর্ট করা ফোল্ডারের নতুন ফাইল তার ফোল্ডারের বিনে ইমপোর্ট করে; নতুন সাব-ফোল্ডার নিজের বিন পায়
@@ -38,7 +38,7 @@
 2. Premiere Pro বন্ধ করুন।
 3. Extract করা ফোল্ডারে **Install.bat**-এ ডাবল ক্লিক, **Y** চাপুন।
    "Windows protected your PC" দেখালে: **More info > Run anyway**।
-4. Premiere Pro-তে: **Window > Extensions > Folder Sync**।
+4. Premiere Pro-তে: **Window > Extensions > Project Sync**।
 
 বিস্তারিত গাইড zip-এর ভেতরে: `README-Bangla.txt`।
 
@@ -48,7 +48,7 @@
 
 ## English
 
-You imported a folder (Footage, Music, Graphics …) into Premiere, and later more files land in it: new clips from the camera, a new song, a new "Day 2" folder. Premiere does not notice. Folder Sync does.
+You imported a folder (Footage, Music, Graphics …) into Premiere, and later more files land in it: new clips from the camera, a new song, a new "Day 2" folder. Premiere does not notice. Project Sync does.
 
 **What it does**
 - Imports new files of an imported folder into that folder's bin; a new subfolder gets its own bin
@@ -68,7 +68,7 @@ You imported a folder (Footage, Music, Graphics …) into Premiere, and later mo
 2. Close Premiere Pro.
 3. In the extracted folder, double-click **Install.bat** and press **Y**.
    If Windows says "Windows protected your PC": **More info > Run anyway**.
-4. In Premiere Pro: **Window > Extensions > Folder Sync**.
+4. In Premiere Pro: **Window > Extensions > Project Sync**.
 
 Full guide inside the zip: `README.txt`.
 
