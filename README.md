@@ -76,4 +76,4 @@ Full guide inside the zip: `README.txt`.
 
 ---
 
-**More Premiere Pro plugins:** [Graphics Translator](https://github.com/ocpabdurrahim/graphics-translator) (translates text graphics) • [Graphics Voice-over](https://github.com/ocpabdurrahim/graphics-voice-over) (AI voice-over from the captions)
+**More Premiere Pro plugins:** [Graphics Translator](https://github.com/ocpabdurrahim/graphics-translator) (translates text graphics) • [Graphics Voice-over](https://github.com/ocpabdurrahim/graphics-voice-over) (AI voice-over from the captions) • [Align & Distribute](https://github.com/ocpabdurrahim/align-and-distribute) (lines up text graphics) • [Word Colors](https://github.com/ocpabdurrahim/word-colors) (colors time words in text graphics)
